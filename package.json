@@ -6,7 +6,7 @@
       "start": "next start"
     },
     "dependencies": {
-      "next": "^13/14",
+      "next": "latest",
       "react": "^18",
       "tailwindcss": "^3",
       "lucide-react": "^0.300.0"
