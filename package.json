@@ -1,0 +1,15 @@
+{
+    "name": "rezuan-portfolio",
+    "scripts": {
+      "dev": "next dev",
+      "build": "next build",
+      "start": "next start"
+    },
+    "dependencies": {
+      "next": "^13/14",
+      "react": "^18",
+      "tailwindcss": "^3",
+      "lucide-react": "^0.300.0"
+    }
+  }
+  
