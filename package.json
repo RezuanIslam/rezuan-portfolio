@@ -1,4 +1,5 @@
-{
+
+  {
     "name": "rezuan-portfolio",
     "scripts": {
       "dev": "next dev",
@@ -6,8 +7,9 @@
       "start": "next start"
     },
     "dependencies": {
-      "next": "latest",
-      "react": "^18",
+      "next": "^13.5.6",
+      "react": "^18.2.0",
+      "react-dom": "^18.2.0",
       "tailwindcss": "^3",
       "lucide-react": "^0.300.0"
     }
